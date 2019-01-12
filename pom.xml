@@ -24,6 +24,14 @@
            <version>7.0</version>
         <scope>provided</scope>
      </dependency>
+     
+     <dependency>
+          <groupId>pe.gtdo</groupId>
+    <artifactId>abdcp-entitymanager</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+       
+     </dependency>
+     
     <dependency>
 		    <groupId>org.json</groupId>
 		    <artifactId>json</artifactId>
