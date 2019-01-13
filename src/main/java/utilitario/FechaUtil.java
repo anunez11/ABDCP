@@ -8,12 +8,10 @@ import java.time.format.DateTimeFormatter;
 import java.util.Date;
 import java.util.Locale;
 
-
 import javax.enterprise.context.ApplicationScoped;
 import javax.ws.rs.core.Response.Status;
 
-import exception.AbdcpException;
-
+import pe.gtdo.exception.AbdcpException;
 
 
 @ApplicationScoped

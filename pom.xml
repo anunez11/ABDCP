@@ -39,7 +39,13 @@
        
      </dependency>
      
-     
+          
+          <dependency>
+        <groupId>pe.gtdo</groupId>
+    <artifactId>abdcp-configuration</artifactId>
+    <version>0.0.1-SNAPSHOT</version>
+       
+     </dependency>
      
     <dependency>
 		    <groupId>org.json</groupId>
